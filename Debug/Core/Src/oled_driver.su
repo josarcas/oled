@@ -1,0 +1,10 @@
+oled_driver.c:21:13:write_command_oled	32	static
+oled_driver.c:28:13:write_page_oled	48	dynamic
+oled_driver.c:45:13:set_bit	16	static
+oled_driver.c:53:13:reset_bit	16	static
+oled_driver.c:60:6:init_oled	8	static
+oled_driver.c:84:6:set_pixel_oled	16	static
+oled_driver.c:90:6:reset_pixel_oled	16	static
+oled_driver.c:96:6:refresh_oled	16	static
+oled_driver.c:104:6:clear_oled	16	static
+oled_driver.c:115:6:draw_bitmap_oled	24	static
